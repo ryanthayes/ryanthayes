@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![MasterHead](src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+
 </br>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/ryan-t-hayes/)">
