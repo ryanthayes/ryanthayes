@@ -1,4 +1,4 @@
-![MasterHead](src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+![MasterHead](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 </br>
 <div id="badges" align="center">
